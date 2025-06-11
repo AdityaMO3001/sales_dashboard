@@ -50,5 +50,8 @@ This dashboard project exemplifies how raw data can be transformed into actionab
 
 If you find this project useful or have suggestions for improvement, feel free to connect or contribute. Let's keep building smarter insights together.
 
----
+
+## Inspired By
+Baraa Salkini
+https://www.youtube.com/watch?v=dahrmqT5GD4&t=30s
 
